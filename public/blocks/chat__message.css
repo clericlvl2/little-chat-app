@@ -1,0 +1,7 @@
+.chat__message {
+    padding: 0.5rem 1rem;
+}
+
+.chat__message:nth-child(odd) {
+    background: #efefef;
+}
