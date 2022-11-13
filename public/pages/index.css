@@ -1,10 +1,15 @@
-@import url('../blocks/root.css');
-@import url('../blocks/chat.css');
-@import url('../blocks/chat__form.css');
-@import url('../blocks/chat__window.css');
-@import url('../blocks/chat__message.css');
-@import url('../blocks/chat__notification.css');
-@import url('../blocks/form.css');
-@import url('../blocks/form__input.css');
-@import url('../blocks/form__submit-btn.css');
+@import url('../blocks/root/root.css');
+
+@import url('../blocks/chat/chat.css');
+@import url('../blocks/chat/chat__options-container.css');
+@import url('../blocks/chat/chat__action-btn.css');
+@import url('../blocks/chat/chat__form.css');
+@import url('../blocks/chat/chat__window.css');
+@import url('../blocks/chat/chat__message.css');
+@import url('../blocks/chat/chat__message-author.css');
+@import url('../blocks/chat/chat__notification.css');
+
+@import url('../blocks/form/form.css');
+@import url('../blocks/form/form__input.css');
+@import url('../blocks/form/form__submit-btn.css');
 
